@@ -6,9 +6,8 @@ import java.util.List;
 public class MuckingAboutThreads {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Started to Muck About!");
-		new MuckingAbout();
+		new MuckingAboutThreads();
 	}
 
 	public MuckingAboutThreads() {
